@@ -9,7 +9,7 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from '@/components/ui/dialog'
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table'
-import { BookOpen, Calendar, MessageSquare, Trophy, TrendingUp, Users, Clock, Sparkles, ChevronRight, Award, BarChart3, Download, AlertCircle, CheckCircle, XCircle, Shield } from 'lucide-react'
+import { BookOpen, Calendar, MessageSquare, Trophy, TrendingUp, Users, Clock, Sparkles, ChevronRight, Award, BarChart3, Download, AlertCircle, CheckCircle,  Shield } from 'lucide-react'
 
 const ACTIVIDADES = [
   { id: 1, nombre: 'Ajedrez', creditos: 1, categoria: 'Cultural', horario: 'Lun-Mié 4-6 PM', inscritos: 24, cupo: 30, icon: '♟️', color: 'from-slate-500 to-slate-600' },
